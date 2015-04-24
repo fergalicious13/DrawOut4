@@ -46,12 +46,12 @@
                           <block type="oled_setend" id="64" inline="true">
                             <value name="ENDX">
                               <block type="math_number" id="102">
-                                <field name="NUM">103</field>
+                                <field name="NUM">113</field>
                               </block>
                             </value>
                             <value name="ENDY">
                               <block type="math_number" id="99">
-                                <field name="NUM">39</field>
+                                <field name="NUM">49</field>
                               </block>
                             </value>
                             <next>
